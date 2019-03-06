@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5f18c83-b4a7-4c71-bf3c-3ac0a62d4c6c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="a5f18c83-b4a7-4c71-bf3c-3ac0a62d4c6c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,15 +204,15 @@
       <updated>1551714822617</updated>
       <workItem from="1551714823861" duration="3266000" />
       <workItem from="1551718147118" duration="9000" />
-      <workItem from="1551770075485" duration="4361000" />
+      <workItem from="1551770075485" duration="5078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7636000" />
+    <option name="totallyTimeSpent" value="8353000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="640" y="0" width="640" height="685" extended-state="1" />
+    <frame x="640" y="0" width="640" height="685" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28178695" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
