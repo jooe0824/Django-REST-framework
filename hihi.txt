@@ -1,1 +1,1 @@
-hihihello
+1st week django
